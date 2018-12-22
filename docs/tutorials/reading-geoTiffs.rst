@@ -43,7 +43,7 @@ exactly is going on.
 
 This import statement brings in ``GeoTiffReader`` from
 ``geotrellis.raster.io.geotiff.reader`` so that we can use it in the
-REPL. As the name implys, ``GeoTiffReader`` is the object that actually
+REPL. As the name implies, ``GeoTiffReader`` is the object that actually
 reads the GeoTiff. If you ever wonder about how we analyze and process
 GeoTiffs, then ``geotrellis.raster.io.geotiff`` would be the place to
 look. Here's a
